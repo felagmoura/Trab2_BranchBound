@@ -1,0 +1,65 @@
+j16: Deadline: 18, Penalty: 7
+j12: Deadline: 18, Penalty: 4
+j5: Deadline: 17, Penalty: 1
+j18: Deadline: 16, Penalty: 2
+j1: Deadline: 15, Penalty: 14
+j6: Deadline: 15, Penalty: 19
+j13: Deadline: 15, Penalty: 18
+j14: Deadline: 14, Penalty: 4
+j8: Deadline: 14, Penalty: 20
+j11: Deadline: 14, Penalty: 20
+j10: Deadline: 12, Penalty: 16
+j3: Deadline: 12, Penalty: 8
+j2: Deadline: 11, Penalty: 18
+j9: Deadline: 9, Penalty: 12
+j0: Deadline: 8, Penalty: 5
+j17: Deadline: 8, Penalty: 13
+j19: Deadline: 5, Penalty: 18
+j7: Deadline: 4, Penalty: 4
+j15: Deadline: 2, Penalty: 9
+j4: Deadline: 1, Penalty: 14
+
+j11: Deadline: 14, Penalty: 20
+j8: Deadline: 14, Penalty: 20
+j6: Deadline: 15, Penalty: 19
+j19: Deadline: 5, Penalty: 18
+j2: Deadline: 11, Penalty: 18
+j13: Deadline: 15, Penalty: 18
+j10: Deadline: 12, Penalty: 16
+j4: Deadline: 1, Penalty: 14
+j1: Deadline: 15, Penalty: 14
+j17: Deadline: 8, Penalty: 13
+j9: Deadline: 9, Penalty: 12
+j15: Deadline: 2, Penalty: 9
+j3: Deadline: 12, Penalty: 8
+j16: Deadline: 18, Penalty: 7
+j0: Deadline: 8, Penalty: 5
+j14: Deadline: 14, Penalty: 4
+j12: Deadline: 18, Penalty: 4
+j7: Deadline: 4, Penalty: 4
+j18: Deadline: 16, Penalty: 2
+j5: Deadline: 17, Penalty: 1
+
+j4: Deadline: 1, Penalty: 14
+j15: Deadline: 2, Penalty: 9
+j19: Deadline: 5, Penalty: 18
+j2: Deadline: 11, Penalty: 18
+j17: Deadline: 8, Penalty: 13
+j8: Deadline: 14, Penalty: 20
+j11: Deadline: 14, Penalty: 20
+j9: Deadline: 9, Penalty: 12
+j10: Deadline: 12, Penalty: 16
+j6: Deadline: 15, Penalty: 19
+j13: Deadline: 15, Penalty: 18
+j7: Deadline: 4, Penalty: 4
+j1: Deadline: 15, Penalty: 14
+j3: Deadline: 12, Penalty: 8
+j0: Deadline: 8, Penalty: 5
+j16: Deadline: 18, Penalty: 7
+j14: Deadline: 14, Penalty: 4
+j12: Deadline: 18, Penalty: 4
+j18: Deadline: 16, Penalty: 2
+j5: Deadline: 17, Penalty: 1
+
+j4 j15 j7 j0 j19 j3 j9 j17 j1 j10 j2 j13 j11 j8 j6 j18 j12 j16 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
