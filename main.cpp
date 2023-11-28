@@ -5,6 +5,7 @@
 #include "JOBS.h"
 #include "GERADOR.h"
 #include "GREEDY.h"
+#include "BB.h"
 
 using namespace std;
 
@@ -12,15 +13,21 @@ using namespace std;
 #define FILE_NAME "JobsTeste_"
 #define RANGE 20
 
+
 int main (int argc, char* argv[]) {
     if (argc == 1) {
         gerarTestes(FILE_NAME, NUM_JOBS, RANGE);
         exit(1);
     }
 
+
     Jobs jobs = Jobs (argv[1]);
     
     greedy(jobs);
+    
 
+    //BranchAndBoundScheduler bb;
+
+    bb(jobs);
     return 0;
 }
